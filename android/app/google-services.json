@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "968227846575",
-    "project_id": "hndit001",
-    "storage_bucket": "hndit001.appspot.com"
+    "project_number": "444319437756",
+    "project_id": "hndit001-2a980",
+    "storage_bucket": "hndit001-2a980.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:968227846575:android:a844c928bdb9d2ba15575a",
+        "mobilesdk_app_id": "1:444319437756:android:2a0388ed9059cd17a291b9",
         "android_client_info": {
           "package_name": "com.hndit001"
         }
       },
       "oauth_client": [
         {
-          "client_id": "968227846575-n6gt742adp02gc2e1npubbkm076ble8a.apps.googleusercontent.com",
+          "client_id": "444319437756-g9kob8sa7j86fqseu16hvb30lstupv5v.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB89hX355MKBq1-8ftJOfbzkqnw_YQ4U8g"
+          "current_key": "AIzaSyCa5iyuJmiCxwkss58u8vEpkDZeRIHfx5w"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "968227846575-n6gt742adp02gc2e1npubbkm076ble8a.apps.googleusercontent.com",
+              "client_id": "444319437756-g9kob8sa7j86fqseu16hvb30lstupv5v.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
